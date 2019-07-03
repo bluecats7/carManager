@@ -1,6 +1,8 @@
 package cn.lanjie.pojo;
 
-
+/**
+ * 车型
+ */
 public class CarType {
 
   private long id;
