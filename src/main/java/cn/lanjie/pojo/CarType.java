@@ -1,7 +1,7 @@
 package cn.lanjie.pojo;
 
 /**
- * 车型
+ * 车型实体类
  */
 public class CarType {
 
